@@ -1,2 +1,2 @@
 # checking
-this is my git hub
+this is my git hubgit status
